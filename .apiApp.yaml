@@ -1,0 +1,4 @@
+db_host: "localhost"
+db_port: 27017
+db_timeout: 15
+api_port: 8080
